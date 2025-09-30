@@ -32,7 +32,7 @@ export default function Bio() {
             <img
               alt="avatar"
               title=""
-              src="/zaney-aura.jpg"
+              src="/zaney-aura.jpeg"
             />
           </div>
         </div>
