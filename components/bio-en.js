@@ -13,20 +13,17 @@ export default function Bio() {
             <a href="tel:+31643535432">+31(64)35-35-432</a> <br />
             Software Engineer (6y+)
             <br />
-            {/* <span style={{whiteSpace: 'nowrap'}}>I've been doing IT for years geez omg help help</span> */}
+            {/* <span style={{whiteSpace: 'nowrap'}}>I've been doing IT for years send help</span> */}
           </p>
           <div className="row link-icons">
-            <a href="https://t.me/fedorg">
+            <a href="https://t.me/aurabirb">
               <i className="fa fa-telegram fa-xs"></i>
             </a>
             <a href="https://www.linkedin.com/in/golishevskii/">
               <i className="fa fa-linkedin"></i>
             </a>
-            <a href="https://github.com/fedorg">
+            <a href="https://github.com/aurabirb">
               <i className="fa fa-github"></i>
-            </a>
-            <a href="skype:golishevski?chat">
-              <i className="fa fa-skype"></i>
             </a>
           </div>
         </div>
@@ -35,7 +32,7 @@ export default function Bio() {
             <img
               alt="avatar"
               title=""
-              src="/a872baa67fdf560b93551310840dc081.jpg"
+              src="/zaney-aura.jpg"
             />
           </div>
         </div>
@@ -44,7 +41,7 @@ export default function Bio() {
         <div className="six columns">
           <h4>Areas of expertise</h4>
           <ul className="nobullets">
-            <li title="don't judge it by this site; I've started it when Bootstrap was popular and never bothered to update it. Not to brag but am in top 5% React devs on LinkedIn. I'm learning Swift now though">
+            <li title="Don't judge it by this site; I've started it when Bootstrap was popular and never had a reason to update it.">
               <code>Frontend development</code>
               <code>IDP</code>
             </li>
@@ -82,7 +79,7 @@ export default function Bio() {
             <li>
               <code>bash</code>
               <code>terraform</code>
-              <code>nomad</code>
+              <code>airflow</code>
               <code>ansible</code>
               <code>ci/cd</code>
             </li>
@@ -115,7 +112,7 @@ export default function Bio() {
           <h4>Education</h4>
           <ul>
             <li>2015 MSc Biochemistry</li>
-            <li>Languages: ru, en</li>
+            <li>Languages: en, ru</li>
           </ul>
         </div>
         <div className="six columns">
@@ -156,9 +153,8 @@ export default function Bio() {
           <h4 className="captionhack">Want to learn</h4>
           <ul className="split">
             <li>FPGA (Verilog/VHDL)</li>
-            <li>linux driver development</li>
-            <li>Unikernels</li>
-            <li>zig language</li>
+            <li>Linux driver development</li>
+            <li>Zig language</li>
             <li>Haskell :^)</li>
           </ul>
         </div>
