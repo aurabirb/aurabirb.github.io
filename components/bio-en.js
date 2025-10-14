@@ -125,7 +125,7 @@ export default function Bio() {
             <li>
               MLOps{" "}
               <a href="https://dexterenergy.ai/">
-                <span className="workplace">@dexterEnergy</span>
+                <span className="workplace">@dexterenergy</span>
               </a>
             </li>
             <li>
