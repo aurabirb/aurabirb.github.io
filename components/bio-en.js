@@ -45,7 +45,8 @@ export default function Bio() {
           <h4>Areas of expertise</h4>
           <ul className="nobullets">
             <li title="Don't judge it by this site; I've started it when Bootstrap was popular and never had a reason to update it.">
-              <code>Frontend development</code>
+              <code>MLOps</code>
+              <code>Frontend</code>
               <code>IDP</code>
             </li>
             <li>
@@ -122,7 +123,13 @@ export default function Bio() {
           <h4>Jobs</h4>
           <ul>
             <li>
-              Senior Software Engineer{" "}
+              MLOps{" "}
+              <a href="https://dexterenergy.ai/">
+                <span className="workplace">@dexterEnergy</span>
+              </a>
+            </li>
+            <li>
+              Platform Engineer{" "}
               <a href="https://www.reaktor.com/">
                 <span className="workplace">@reaktor</span>
               </a>
@@ -133,20 +140,13 @@ export default function Bio() {
                 <span className="workplace">@sberDevices</span>
               </a>
             </li>
-            <li>
-              Full-stack dev{" "}
-              <a href="https://biocad.ru">
-                <span className="workplace">@biocad</span>
-              </a>
-            </li>
           </ul>
         </div>
       </div>
       <div className="row section">
         <div className="six columns">
-          <h4>Want to learn about</h4>
+          <h4>Cool words</h4>
           <ul className="split">
-            <li>Neural networks</li>
             <li>Biocomputing</li>
             <li>Hypervisors</li>
             <li>Niche industries</li>
@@ -155,10 +155,9 @@ export default function Bio() {
         <div className="six columns">
           <h4 className="captionhack">Want to learn</h4>
           <ul className="split">
-            <li>FPGA (Verilog/VHDL)</li>
+            <li>FPGA, Verilog, VHDL</li>
             <li>Linux driver development</li>
-            <li>Zig language</li>
-            <li>Haskell :^)</li>
+            <li>Zig & Haskell :^)</li>
           </ul>
         </div>
       </div>
