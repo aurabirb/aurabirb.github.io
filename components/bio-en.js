@@ -25,7 +25,7 @@ export default function Bio() {
             <a href="https://github.com/aurabirb">
               <i className="fa fa-github"></i>
             </a>
-            <a href="https://github.com/aurabirb/lateral/raw/refs/heads/2025-equiv/rendered/Fedor%20Golishevskii%202025%20A.pdf">
+            <a href="/Fedor%20Golishevskii%202025%20A.pdf">
               <i className="fa fa-file-o"></i>
             </a>
           </div>
